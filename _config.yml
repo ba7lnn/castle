@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: 称重软件,铜厂ERP,线束软件
+email: ba7lnn@foxmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: ba7lnn
+github_username: ba7lnn
 
 # Build settings
 markdown: kramdown
